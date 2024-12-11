@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP1427E536_NEWMSSQLSERVER.PersonnelAccountingDW.SA"
+  DTS:DTSID="{F2C228C4-44DB-410B-B630-049CECD79C0A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP1427E536\NEWMSSQLSERVER;User ID=SA;Initial Catalog=PersonnelAccountingDW;Provider=SQLNCLI11.1;Application Name=SSIS-PersonnelAccountingSSIS-{F2C228C4-44DB-410B-B630-049CECD79C0A}LAPTOP1427E536\NEWMSSQLSERVER.PersonnelAccountingDW.SA;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALJhBV4/VEUuUD5628P92HQAAAAACAAAAAAAQZgAAAAEAACAAAACxJwcjfBminW4NkmgWhWTjcfBBG24Yr677NfNwntGuKQAAAAAOgAAAAAIAACAAAABmRBg4qBMRCRmj0pWc+KYg/uErMsniu186kJOmf/gsOoAAAACjROK2IneDdEYXHkP03XuN/NERcuw5mI2CGjEIKwbc4lNZPj2qMGG2cxCWIbn5IaCN7blm9Vg9lWZCD6q1B3y9V3OsxrKMcs8MOHcoi4IF5pG/x353XhK7d01FrSWjo9zd0tHw6PHQpR/u9eJ+/oNT27kOXKgPmj+iQHpThDJEvkAAAAAkHJ4pE9lKf7PXt3S2P8vWlnCoZC9ODNJQs+G8Gmav3oxfXeN8XsuBKCZoSYuQMMnCaQoZPn8BwQ7S4y4YKv4E</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

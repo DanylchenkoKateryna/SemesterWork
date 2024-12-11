@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "PersonnelAccountingSSIS", "PersonnelAccountingSSIS\PersonnelAccountingSSIS.dtproj", "{12759FDC-9DC0-421F-881F-222BB40CCA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12759FDC-9DC0-421F-881F-222BB40CCA41}.Development|Default.ActiveCfg = Development
+		{12759FDC-9DC0-421F-881F-222BB40CCA41}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FB4DBA-A23D-46D2-908E-35925D7258A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "PersonnelAccountingSSAS", "PersonnelAccountingSSAS\PersonnelAccountingSSAS.dwproj", "{0E53F1AE-9103-4D97-AFE9-31C8B0381D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E53F1AE-9103-4D97-AFE9-31C8B0381D84}.Development|Default.ActiveCfg = Development
+		{0E53F1AE-9103-4D97-AFE9-31C8B0381D84}.Development|Default.Build.0 = Development
+		{0E53F1AE-9103-4D97-AFE9-31C8B0381D84}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D3D546-5BFF-4097-81FD-AAE6E3C85240}
+	EndGlobalSection
+EndGlobal

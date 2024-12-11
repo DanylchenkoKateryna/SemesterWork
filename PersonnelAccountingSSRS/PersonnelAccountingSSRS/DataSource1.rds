@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=LAPTOP1427E536\NEWMSSQLSERVER;Initial Catalog=PersonnelAccountingSSAS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a2abcc4d-67e3-4028-b491-352a701e3683</DataSourceID>
+</RptDataSource>
